@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">I-Rate App</string>
+    <string name="i_agree">I agree to the terms of use</string>
+    <string name="restaurantname">Restaurant Name</string>
+    <string name="restauranttype">Restaurant type</string>
+    <string name="timevisit">Date and time of the visit </string>
+    <string name="average">Average meal price per person</string>
+    <string name="servicerating">Service rating</string>
+    <string name="cleanrating">Cleanliness rating</string>
+    <string name="foodrating">Food quality rating</string>
+    <string name="notes">notes</string>
+    <string name="reporter">Name of the reporter </string>
+    <string name="save">Save</string>
+    <string name="Restaurant_already_exists">Restaurant already exists</string>
+</resources>
